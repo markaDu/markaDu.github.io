@@ -1,0 +1,8 @@
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+
+  [[menu.main]]
+    name = "Apie"
+    url = "/apie/"
